@@ -1,4 +1,4 @@
-# MovieRecgpt 🎬
+# Movie Reccommedation gpt 🎬
 
 Welcome to the **Movie Recommendation System**, a Python-based tool that recommends movies based on user input and provides streaming availability information. This project leverages advanced natural language processing (NLP) techniques and integrates with external APIs to deliver personalized movie recommendations.
 
@@ -19,6 +19,44 @@ Welcome to the **Movie Recommendation System**, a Python-based tool that recomme
 - **FAISS**: For efficient similarity search and retrieval.
 - **Utelly API**: For fetching streaming availability information.
 - **Dotenv**: For managing environment variables securely.
+
+## Example Output 🖥️
+
+Here’s an example of how the system works and what the output looks like:
+
+### User Input:
+```plaintext
+How are you feeling today? (Type 'exit' to quit): I feel like taking a romantic vacation throughout Europe
+
+🎬 Recommendation 1
+   - Title: Before Sunrise
+   - Description: A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.
+   - Why Recommended: This movie captures a romantic encounter between two strangers in Europe, specifically in Vienna, which aligns with your desire for a romantic vacation throughout Europe.
+   - Genres: Drama, Romance
+   - Release Year: 1995
+   - Rating: 8.1
+   - Streaming Services: Amazon Instant Video, iTunes, Google Play
+--------------------------------------------------
+🎬 Recommendation 2
+   - Title: Before Sunset
+   - Description: Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.
+   - Why Recommended: Continuing the romantic journey, this film reunites the characters in Paris, France, providing a romantic setting in Europe for your movie choice.
+   - Genres: Drama, Romance
+   - Release Year: 2004
+   - Rating: 8.1
+   - Streaming Services: Amazon Instant Video, iTunes, Google Play
+--------------------------------------------------
+🎬 Recommendation 3
+   - Title: Casablanca
+   - Description: A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.
+   - Why Recommended: While not set in Europe, the romantic and dramatic elements of this classic film set in French Morocco might still appeal to your desire for a romantic movie experience.
+   - Genres: Drama, Romance, War
+   - Release Year: 1942
+   - Rating: 8.5
+   - Streaming Services: Amazon Instant Video, iTunes, Google Play
+--------------------------------------------------
+```
+
 
 ## How It Works 🧠
 
