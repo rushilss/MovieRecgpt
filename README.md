@@ -1,6 +1,6 @@
 # Movie Reccommedation gpt 🎬
 
-Welcome to the **Movie Recommendation System**, a Python-based tool that recommends movies based on user input and provides streaming availability information. This project leverages advanced natural language processing (NLP) techniques and integrates with external APIs to deliver personalized movie recommendations.
+Welcome to **MovieRecgpt**, a movie recommendation system powered by **Retrieval-Augmented Generation (RAG)**. This Python-based tool combines the strengths of OpenAI's GPT-3.5-turbo model with efficient retrieval techniques to deliver highly personalized movie recommendations. Whether you're in the mood for a romantic comedy, a thrilling sci-fi adventure, or a classic drama, MovieRecgpt tailors its suggestions to your preferences and even tells you where to stream them. By leveraging RAG, the system enhances recommendation accuracy by retrieving relevant movie data and generating context-aware responses, ensuring you get the perfect movie match every time. Lights, camera, action—let’s find your next favorite film! 🍿
 
 ## Example Output 🖥️
 
