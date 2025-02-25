@@ -2,24 +2,6 @@
 
 Welcome to the **Movie Recommendation System**, a Python-based tool that recommends movies based on user input and provides streaming availability information. This project leverages advanced natural language processing (NLP) techniques and integrates with external APIs to deliver personalized movie recommendations.
 
-## Features ✨
-
-- **Personalized Recommendations**: Get movie recommendations tailored to your mood or preferences.
-- **Streaming Availability**: Check which streaming platforms offer the recommended movies.
-- **Advanced NLP**: Utilizes OpenAI's GPT-3.5-turbo model for generating recommendations.
-- **Multi-Query Retrieval**: Enhances recommendation accuracy by generating multiple queries for better context understanding.
-- **Interactive CLI**: A user-friendly command-line interface for easy interaction.
-
-## Technologies Used 🛠️
-
-- **Python**: Core programming language.
-- **Pandas**: Data manipulation and analysis.
-- **OpenAI API**: For generating movie recommendations using GPT-3.5-turbo.
-- **LangChain**: For building retrieval-augmented generation (RAG) pipelines.
-- **FAISS**: For efficient similarity search and retrieval.
-- **Utelly API**: For fetching streaming availability information.
-- **Dotenv**: For managing environment variables securely.
-
 ## Example Output 🖥️
 
 Here’s an example of how the system works and what the output looks like:
@@ -57,6 +39,23 @@ How are you feeling today? (Type 'exit' to quit): I feel like taking a romantic 
 --------------------------------------------------
 ```
 
+## Features ✨
+
+- **Personalized Recommendations**: Get movie recommendations tailored to your mood or preferences.
+- **Streaming Availability**: Check which streaming platforms offer the recommended movies.
+- **Advanced NLP**: Utilizes OpenAI's GPT-3.5-turbo model for generating recommendations.
+- **Multi-Query Retrieval**: Enhances recommendation accuracy by generating multiple queries for better context understanding.
+- **Interactive CLI**: A user-friendly command-line interface for easy interaction.
+
+## Technologies Used 🛠️
+
+- **Python**: Core programming language.
+- **Pandas**: Data manipulation and analysis.
+- **OpenAI API**: For generating movie recommendations using GPT-3.5-turbo.
+- **LangChain**: For building retrieval-augmented generation (RAG) pipelines.
+- **FAISS**: For efficient similarity search and retrieval.
+- **Utelly API**: For fetching streaming availability information.
+- **Dotenv**: For managing environment variables securely.
 
 ## How It Works 🧠
 
