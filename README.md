@@ -57,3 +57,22 @@ Welcome to the **Movie Recommendation System**, a Python-based tool that recomme
    ```bash
    git clone https://github.com/rushilss/movie_gpt.git
    cd movie_gpt
+   ```
+
+2. Install the required dependencies:
+   ```bash
+   git clone https://github.com/rushilss/movie_gpt.git
+   cd movie_gpt
+   ```
+
+3. Create a .env file in the root directory and add your API keys:
+   ```bash
+   OPENAI_API_KEY=your_openai_api_key
+   UTELLY_API_KEY=your_utelly_api_key
+   LANGCHAIN_API_KEY=your_langchain_api_key  # Optional
+   ```
+   
+4. Run the application:
+    ```bash
+   python main.py
+   ```
