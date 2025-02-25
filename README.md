@@ -9,7 +9,9 @@ Here’s an example of how the system works and what the output looks like:
 ### User Input:
 ```plaintext
 How are you feeling today? (Type 'exit' to quit): I feel like taking a romantic vacation throughout Europe
-
+```
+### Output:
+```plaintext
 🎬 Recommendation 1
    - Title: Before Sunrise
    - Description: A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.
