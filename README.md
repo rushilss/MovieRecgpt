@@ -38,12 +38,12 @@ How are you feeling today? (Type 'exit' to quit): I feel like taking a romantic 
    - Streaming Services: Amazon Instant Video, iTunes, Google Play
 --------------------------------------------------
 ```
-
 ## Features ✨
 
 - **Personalized Recommendations**: Get movie recommendations tailored to your mood or preferences.
 - **Streaming Availability**: Check which streaming platforms offer the recommended movies.
 - **Advanced NLP**: Utilizes OpenAI's GPT-3.5-turbo model for generating recommendations.
+- **Retrieval-Augmented Generation (RAG)**: Combines retrieval of relevant movie data with generative AI to provide highly accurate and context-aware recommendations.
 - **Multi-Query Retrieval**: Enhances recommendation accuracy by generating multiple queries for better context understanding.
 - **Interactive CLI**: A user-friendly command-line interface for easy interaction.
 
